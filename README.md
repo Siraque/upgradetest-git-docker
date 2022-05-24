@@ -133,9 +133,13 @@ ADICIONAIS
 
 Pois a conexão foi estabelecida
 
-* Baixar as alterações do github ou baixar todos os arquivos para um novo repositório
+* Baixar as alterações do github / commits de outros colaboradores do repositório
 
 	git pull
+
+* Baixar todos os arquivos do repositório para uma nova pasta ou máquina (Clonar o repositório)
+
+	git clone <link>
 
 * Limpar a timeline do git bash
 
